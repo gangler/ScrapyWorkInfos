@@ -22,7 +22,7 @@ namespace FindWork
             //StreamReader str = new StreamReader(request.GetResponse().GetResponseStream());
 
             //将获得数据写入json文件
-            string path = @"F:\CoreProjects\ScrapyWorkInfos\info.json";
+            string path = @"..\..\..\info.json";
             //using(StreamWriter sw = File.CreateText(path))
             //{
             //    sw.Write(str.ReadToEnd());
